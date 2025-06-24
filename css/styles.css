@@ -379,6 +379,8 @@ html {
   text-align: center;
 
   color: #ffffff;
+  
+  transition: 200ms ease-in;
 }
 
 .cta-form-button:hover {
